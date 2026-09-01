@@ -5,7 +5,6 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/paulcorral93/osticket-prereqs)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/paulcorral93/Active-Directory-Configuration/blob/main/README.md)
   - [How to Create and Access a Virtual Machine using Microsoft Azure](https://github.com/paulcorral93/How-to-create-a-Virtual-Machine)
 
 <h2>🤳Connect with me:</h2>
