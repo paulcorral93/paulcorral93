@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/paulcorral93/osticket-prereqs)
 - <b>Active Directory</b>
- - [Active-Directory-Domain-Controller-Setup](https://github.com/paulcorral93/Active-Directory-Domain-Controller-Setup)
+  - [Active-Directory-Domain-Controller-Setup](https://github.com/paulcorral93/Active-Directory-Domain-Controller-Setup)
 - <b>Microsoft Azure</b>
   - [How to Create and Access a Virtual Machine using Microsoft Azure](https://github.com/paulcorral93/How-to-create-a-Virtual-Machine)
 
